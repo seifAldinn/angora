@@ -1,0 +1,151 @@
+a:hover,
+a:focus,
+h1.colored,
+.h1.colored,
+h2.colored,
+.h2.colored,
+h3.colored,
+.h3.colored,
+h4.colored,
+.h4.colored,
+h5.colored,
+.h5.colored,
+h6.colored,
+.h6.colored,
+.icon.colored i,
+section.parallax .video-control:hover i,
+section.video .video-control:hover i,
+.navbar .navbar-collapse:not(.in):not(.collapsing) .navbar-nav>li.dropdown.open>a,
+.navbar .navbar-nav>li>.dropdown-menu li.active a,
+.navbar .navbar-social a:hover>i,
+.feature-single .icon,
+.feature-single:hover h3,
+section.parallax .feature-single:hover .icon,
+.service-single .icon,
+.service-single:hover h3,
+.team-member:hover .team-details .title,
+.price-table:hover .price-title,
+.price-table:hover .price-title>h5,
+.price-table:hover .price-title .price-rate .currency>i,
+.price-table:hover .price-content .price-rate .rate,
+.price-btn a,
+.btn.btn-link,
+.btn.btn-inverse,
+.btn-read-more,
+.portfolio-filters span:hover,
+.portfolio-filters span.active,
+.sidebar ul.menu li a:hover,
+.sidebar ul.menu li a:focus,
+.sidebar ul.links li a:hover,
+.sidebar ul.links li a:focus,
+.recent-post-categories a,
+.author-info h3 a,
+.author-info h4,
+.parallax .blog-about a:hover,
+.parallax .about-author a:hover,
+.pages-navigation a:hover,
+.pages-navigation a:focus,
+.user-comment .details .reply a,
+.counter .icon,
+.contact-content>.icon,
+.contact-content:hover h4,
+.post-tags a,
+footer a:hover,
+.footer-social a:hover>i {
+    color: #f25454;
+}
+
+.navbar .navbar-nav>li a:hover,
+.navbar .navbar-nav>li a:focus,
+.navbar .navbar-nav>li.active>a,
+.arrows .arrow i:hover,
+.nav-tabs>li.active>a,
+.nav-tabs>li.active>a:hover,
+.nav-tabs>li.active>a:focus {
+    color: #f25454 !important;
+}
+
+.btn.btn-link:hover,
+.btn.btn-link:focus {
+    color: #f38383;
+}
+
+.intro .mouse:hover .wheel,
+.price-table.featured .price-title,
+.price-btn a:before,
+.price-table .price-footer>a:hover,
+.blog-home .blog-category,
+footer .to-top:hover {
+    background: #f25454;
+}
+
+.navbar .navbar-toggle:hover .icon-bar,
+.btn.btn-default,
+.portfolio-item .loading,
+.progress .progress-bar,
+.dropcap.alt,
+.highlight,
+.sticker.default,
+#zoom-in:hover,
+#zoom-out:hover {
+    background-color: #f25454;
+}
+
+#zoom-in,
+#zoom-out,
+.team-member .team-social,
+.section.parallax .parallax-overlay.colored,
+.section.video .parallax-overlay.colored,
+.section.parallax .video-overlay.colored,
+.section.video .video-overlay.colored {
+    background-color: rgba(242, 84, 84, 0.85);
+}
+
+footer .to-top {
+    background: rgba(242, 84, 84, 0.5);
+}
+
+.btn.btn-default:hover,
+.btn.btn-default:focus {
+    background-color: #f38383;
+}
+
+.btn.btn-inverse:hover,
+.btn.btn-inverse:focus {
+    border-color: #f38383;
+    color: #f38383;
+}
+
+blockquote,
+.intro .mouse:hover,
+.portfolio-filters span.active,
+input:focus,
+textarea:focus,
+.tags .tag:hover,
+.tags .tag:focus,
+footer .footer-widgets .tags .tag:hover,
+footer .footer-widgets .tags .tag:focus {
+    border-color: #f25454;
+}
+
+input.notice,
+textarea.notice {
+    border-color: #f25454 !important;
+}
+
+.portfolio-filters a.active {
+    background-color: #f25454 !important;
+}
+
+.loader-icon .spinner,
+.promotion-box {
+    border-left-color: #f25454;
+}
+
+.promotion-box.line-top {
+    border-top-color: #f25454;
+}
+
+.sticker.default:hover {
+    background-color: #fa9c7c;
+}
